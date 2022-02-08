@@ -90,6 +90,10 @@ export default {
           return 'GithubIcon'
       }
     },
+  },
+
+
+  methods: {
     getIconComponentName(contactType) {
       switch (contactType) {
         case 'facebook':
