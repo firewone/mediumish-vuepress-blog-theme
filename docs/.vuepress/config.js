@@ -1,5 +1,5 @@
 module.exports = {
-  title: 'Mediumish',
+  title: 'AnyShare',
   base: '/',
   dest: 'public',
   description: 'Mediumish theme with VuePress and Forestry',
@@ -28,15 +28,15 @@ module.exports = {
         },
         {
           type: 'facebook',
-          link: '#',
+          link: 'https://facebook.com/serpihan.link',
         },
         {
           type: 'github',
-          link: 'https://github.com/wowthemesnet/mediumish-vuepress-blog-theme',
+          link: 'https://github.com/wongsepele',
         },
         {
           type: 'gitlab',
-          link: '#',
+          link: 'https://gitlab.com/venomserl1',
         },
         {
           type: 'instagram',
@@ -48,11 +48,11 @@ module.exports = {
         },
         {
           type: 'mail',
-          link: '#',
+          link: 'venomserl1@gmail.com',
         },
         {
           type: 'messenger',
-          link: '#',
+          link: 'https://facebook.com/serpihan.link',
         },
         {
           type: 'phone',
@@ -73,14 +73,14 @@ module.exports = {
           link: 'https://bootstrapstarter.com/license/',
         },
         {
-          text: 'Made with Mediumish - free Vuepress theme',
-          link: 'https://bootstrapstarter.com/bootstrap-templates/vuepress-theme-mediumish/',
+          text: '© 2022 AnyShare.cf',
+          link: 'https://anyshare.cf',
         },
       ],
     },
 
     sitemap: {
-      hostname: 'https://github.com/wowthemesnet/vuepress-theme-mediumish/'
+      hostname: 'https://anyshare.cf/sitemap.xml'
     },
     comment: {
       service: 'disqus',
@@ -90,7 +90,7 @@ module.exports = {
       endpoint: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&id=8c3d2d214b'
     },
     feed: {
-      canonical_base: 'https://github.com/wowthemesnet/vuepress-theme-mediumish/',
+      canonical_base: 'https://github.com/venomserl1/vuepress-theme-mediumish/',
     },
     smoothScroll: true
   },
