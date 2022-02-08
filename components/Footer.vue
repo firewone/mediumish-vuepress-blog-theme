@@ -20,7 +20,7 @@ class="contact-item"
 </li>
 <li 
 v-for="item in contact" 
-:key="item.iconComponent" 
+:key="item.FacebookIcon" 
 class="contact-item">
 >
 <Navlink :link="item.link">
