@@ -101,5 +101,12 @@ export default {
       }
     },
   },
+    getIconComponentName(contactType) {
+      switch (contactType) {
+        case 'facebook':
+          return 'FacebookIcon'
+      }
+    },
+  },
 }
 </script>
